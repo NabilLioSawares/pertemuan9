@@ -51,4 +51,4 @@ for nama, nim, Tugas, UTS, UAS, nilaiAkhir in zip(nama, nim, nilaiTugas, nilaiUT
 no += 1
 print("| {0:^2} | {1:^22} | {2:^8} | {3:^6} | {4:^5} | {5:^5} | {6:^10}|".format(no, nama, nim, Tugas, UTS, UAS, nilaiAkhir))
 print("================================================================================")<br>
-![gambar]
+![gambar](kk.png)
